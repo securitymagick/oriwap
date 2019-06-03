@@ -1,0 +1,3 @@
+accounts:Accounts:Update Accounts:glyphicon-dashboard
+showAccounts:Show Accounts:Edit or Delete:glyphicon-flash
+listAccounts:View Accounts: Edit / Delete:glyphicon-check

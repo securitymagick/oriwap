@@ -1,0 +1,2 @@
+addPost:Post:Add new post:glyphicon-share
+addPost:Add:Post a new [singular-basetopic]:glyphicon-pencil

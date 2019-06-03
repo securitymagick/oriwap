@@ -1,0 +1,2 @@
+comments:Comments:Edit / Delete Comments:glyphicon-comment
+comments:Change Comments:Edit or Delete:glyphicon-scissors

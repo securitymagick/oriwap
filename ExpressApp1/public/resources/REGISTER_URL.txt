@@ -1,0 +1,2 @@
+register:Create Account:Register your new account:glyphicon-plus
+register:Register:Create a new account:glyphicon-plus-sign

@@ -1,0 +1,2 @@
+settings:Settings:Admin Settings:glyphicon-wrench
+settings:Admin:Settings:glyphicon-asterisk

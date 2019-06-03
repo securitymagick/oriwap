@@ -1,0 +1,12 @@
+admin:ADMIN:admin: 
+manage:MANAGE:admin: 
+hidden:ADMIN MENU:admin: 
+superuser:SUPER USER:admin: 
+tools:TOOLS:admin:
+secretMenu:MANAGE SITE:admin: 
+sdgesegksp:ADMIN:admin: 
+admin:ADMIN:logged in: 
+manage:MANAGE:logged in: 
+tools:TOOLS:logged in:
+secretMenu:MANAGE SITE:logged in: 
+sdgesegksp:ADMIN:logged in: 

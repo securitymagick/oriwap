@@ -1,0 +1,3 @@
+vote:Vote:For your favorite [singular-basetopic]:glyphicon-gift
+vote:Vote:Record your favorite [singular-basetopic]:glyphicon-star
+vote:Record:Vote for you favorite [singular-basetopic]:glyphicon-heart

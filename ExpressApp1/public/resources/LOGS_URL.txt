@@ -1,0 +1,2 @@
+logs:Logs:Check the logs:glyphicon-file
+viewlogs:View Logs:Read the Logs:glyphicon-open-file

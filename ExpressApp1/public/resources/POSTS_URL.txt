@@ -1,0 +1,2 @@
+posts:Posts:Edit / Delete Posts:glyphicon-list-alt
+listposts:Change Posts:Edit or Delete:glyphicon-th-list

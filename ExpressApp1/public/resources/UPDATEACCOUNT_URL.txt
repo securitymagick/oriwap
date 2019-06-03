@@ -1,0 +1,3 @@
+updateAccount:Update:Update your account:glyphicon-edit
+updateAccount:Edit:Make Changes to your Account:glyphicon-cog
+updateAccount:Make Changes:To your account:glyphicon-pencil

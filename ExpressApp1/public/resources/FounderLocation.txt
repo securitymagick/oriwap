@@ -1,0 +1,9 @@
+Africa:equatorial:African Saharah
+China:oriental:Shangrala
+Japan:delicate:Shinto Temples
+Peru:Mayan:ruins
+Mexico:serpentine:Tenayuca
+Egypt:Theban:temples
+Sudan:Nubian:pyramids
+Israel:biblical:Beth Shemesh
+Britain:Celtic:Henges
